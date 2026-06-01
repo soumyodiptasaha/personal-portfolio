@@ -203,3 +203,16 @@ p{
     background:blue;
     transform:scale(1.05);
 }
+.project a{
+    display:inline-block;
+    margin-top:10px;
+    padding:10px 18px;
+    background:#111;
+    color:white;
+    border-radius:8px;
+    text-decoration:none;
+}
+
+.project a:hover{
+    background:blue;
+}
